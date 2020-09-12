@@ -104,7 +104,6 @@ p {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -194,3 +193,9 @@ footer nav a {
     background-color: dodgerblue;
 }
 
+.geninfo {
+    margin: 1% 1% 1% 1%;
+    border-bottom-style: dashed;
+    border-width: 0.1rem;
+    padding: 1% 1% 1% 1%;
+}
